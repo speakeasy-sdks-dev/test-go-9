@@ -1,6 +1,7 @@
 configVersion: 1.0.0
 generation:
-  comments: {}
+  comments:
+    disableComments: true
   sdkClassName: test-new
   maintainOpenAPIOrder: true
 go:
